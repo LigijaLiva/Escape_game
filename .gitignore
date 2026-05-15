@@ -1,0 +1,9 @@
+Library/ 
+Backup/ 
+Temp/ 
+Logs/ 
+UserSettings/ 
+Backup/ 
+.vs/ 
+*.csproj/ 
+*.slnx/ 
